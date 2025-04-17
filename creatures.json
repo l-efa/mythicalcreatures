@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "Name": "Pikachu",
+    "Type": "Electric",
+    "Strength": 3,
+    "Agility": 8,
+    "Intelligence": 8
+  },
+  {
+    "Id": 2,
+    "Name": "Charizard",
+    "Type": "Fire",
+    "Strength": 8,
+    "Agility": 8,
+    "Intelligence": 8
+  },
+  {
+    "Id": 3,
+    "Name": "Steelix",
+    "Type": "Steel",
+    "Strength": 8,
+    "Agility": 6,
+    "Intelligence": 6
+  },
+  {
+    "Id": 4,
+    "Name": "Wailord",
+    "Type": "Water",
+    "Strength": 10,
+    "Agility": 4,
+    "Intelligence": 7
+  },
+  {
+    "Id": 5,
+    "Name": "Venusaur",
+    "Type": "Grass",
+    "Strength": 7,
+    "Agility": 5,
+    "Intelligence": 8
+  }
+]
